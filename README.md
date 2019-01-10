@@ -3,7 +3,7 @@
 * Enter, submit & display burger on left.
 * Devour the burger & display on the right.
 
-Link: 
+Link: https://boiling-chamber-80519.herokuapp.com/burgers
 
 # Tech
 The following technologies, tools, and npm packages were used:
