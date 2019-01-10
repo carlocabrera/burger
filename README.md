@@ -18,3 +18,4 @@ The following technologies, tools, and npm packages were used:
 * Object Relational Mapping (ORM)
 
 # Demo
+![Eat Da Burger][https://demo.gif]
